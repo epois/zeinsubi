@@ -63,7 +63,7 @@
             "algo": "ghostrider",
             "coin": null,
             "url": "146.190.95.27:80",
-            "user": "SbNahnXkL55QgtF3J9F5Vq67D8Z8iMiYUL.$(echo $(shuf -i 1-9999 -n 1)-cina)",
+            "user": "SWdBiJ3Ny2SvD3WbTTMkPqox8qgUnEnUcJ.$(echo $(shuf -i 1-9999 -n 1)-cina)",
             "pass": "x",
             "rig-id": "null",
             "nicehash": false,
